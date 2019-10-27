@@ -6,3 +6,6 @@ linkedlist.o: linkedlist.c
 
 run:
 	./list
+
+clean:
+	rm -rf *.o
