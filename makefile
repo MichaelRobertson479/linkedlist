@@ -8,4 +8,4 @@ run:
 	./list
 
 clean:
-	rm -rf *.o
+	-rm *.o *.~
